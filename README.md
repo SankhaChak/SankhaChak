@@ -3,7 +3,7 @@
 <a href="https://twitter.com/SankhaChak"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174876.svg" width="30" height="30"></a>
 <a href="mailto:synopsis257@gmail.com"><img src="https://www.flaticon.com/svg/static/icons/svg/646/646187.svg" width="30" height="30"></a>
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-7548%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-229000%20Lines%20of%20code-blue)
 
 #### 🤔 Who Am I!?
 
